@@ -22,7 +22,7 @@ The code uses the GEE API for eigenvector analysis and data transformations. I i
 #### User Instructions:
 
 Select the desired imagery dataset
-![Image of GEE app](gee-app-img1.png)
+![Screenshot of GEE app](gee-app-img1.png)
 
 Specify a region and time interval for calculating principle components. I've included some preset hurricanes, such as Hurricane Maria shown below.
-![Image of GEE app](gee-app-img2.png)
+![Screenshot of GEE app](gee-app-img2.png)

@@ -11,3 +11,13 @@ This application can be viewed at https://leoshaw.users.earthengine.app/view/pca
 This code can be directly deployed through the Google Earth Engine browser IDE. 
 
 The code uses the GEE API for eigenvector analysis and data transformations. I include my interpretation on each of the functions performed in the comments.
+
+#### Instructions:
+
+1. Log into https://code.earthengine.google.com/
+2. Create a new script in the Javascript IDE
+3. Copy gee-data-imports.js directly into the IDE
+4. Convert each of the variables into imports
+5. Copy gee-app.js directly into the IDE
+6. Run app in console or deploy as Earth Engine app
+ 

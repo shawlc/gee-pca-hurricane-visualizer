@@ -68,6 +68,6 @@ var North_Atlantic = /* color: #d63000 */ee.Geometry.Polygon(
           [-97.7797616280223, 60.89721898215254],
           [-175.1015389717723, 61.67830932218524]]]),
     Center = /* color: #d63000 */ee.Geometry.Point([-164.416269877378, 6.22699687757768]),
-    precipitationData = ee.ImageCollection("NASA/GPM_L3/IMERG_V05"),
+    precipitationData = ee.ImageCollection("NASA/GPM_L3/IMERG_V06"),
     oceanData = ee.ImageCollection("NOAA/CDR/ATMOS_NEAR_SURFACE/V2"),
     sstData = ee.ImageCollection("NOAA/CDR/OISST/V2");
